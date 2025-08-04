@@ -177,7 +177,7 @@ const Hero = ({ slice }: HeroProps): JSX.Element => {
               sweeteners and high-fructose corn syrup - because real flavor
               deserves real ingredients. Each of our five bold flavors delivers
               just 3-5g of sugar while packing a whopping 9g of gut-friendly
-              prebiotic fiber. This isn't just better-for-you soda - it's a
+              prebiotic fiber. This isn't just better-for-you soda - its a
               full-flavored rebellion in every sip. Try all five flavors and
               join the movement where taste meets guts.
             </div>
